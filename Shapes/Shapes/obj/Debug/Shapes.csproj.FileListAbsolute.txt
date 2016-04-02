@@ -1,0 +1,15 @@
+D:\!Work\ИГОРЬ\EPAM_study\EPAM\C#\Учеба\Shapes\Shapes\bin\Debug\Shapes.exe.config
+D:\!Work\ИГОРЬ\EPAM_study\EPAM\C#\Учеба\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+D:\!Work\ИГОРЬ\EPAM_study\EPAM\C#\Учеба\Shapes\Shapes\bin\Debug\Shapes.exe
+D:\!Work\ИГОРЬ\EPAM_study\EPAM\C#\Учеба\Shapes\Shapes\bin\Debug\Shapes.pdb
+D:\!Work\ИГОРЬ\EPAM_study\EPAM\C#\Учеба\Shapes\Shapes\obj\Debug\Shapes.exe
+D:\!Work\ИГОРЬ\EPAM_study\EPAM\C#\Учеба\Shapes\Shapes\obj\Debug\Shapes.pdb
+F:\KursC#\ Home_Task\Shapes\Shapes\bin\Debug\Shapes.exe.config
+F:\KursC#\ Home_Task\Shapes\Shapes\obj\Debug\Shapes.exe
+F:\KursC#\ Home_Task\Shapes\Shapes\obj\Debug\Shapes.pdb
+D:\Korolko\ Home_Task\Shapes\Shapes\bin\Debug\Shapes.exe.config
+D:\Korolko\ Home_Task\Shapes\Shapes\obj\Debug\Shapes.exe
+D:\Korolko\ Home_Task\Shapes\Shapes\obj\Debug\Shapes.pdb
+D:\Korolko\ Home_Task\Shapes\Shapes\bin\Debug\Shapes.exe
+D:\Korolko\ Home_Task\Shapes\Shapes\bin\Debug\Shapes.pdb
+D:\Korolko\ Home_Task\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
