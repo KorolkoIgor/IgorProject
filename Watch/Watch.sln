@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Watch", "Watch\Watch.csproj", "{669E5B5B-C995-4396-9B66-AEF15D986AF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{A0249B55-5DB3-47BF-A073-A221AB078BF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{669E5B5B-C995-4396-9B66-AEF15D986AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{669E5B5B-C995-4396-9B66-AEF15D986AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{669E5B5B-C995-4396-9B66-AEF15D986AF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0249B55-5DB3-47BF-A073-A221AB078BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0249B55-5DB3-47BF-A073-A221AB078BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0249B55-5DB3-47BF-A073-A221AB078BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0249B55-5DB3-47BF-A073-A221AB078BF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
