@@ -1,0 +1,2 @@
+D:\Korolko\ClassroomActivity\Logger\Logger\bin\Debug\Logger.exe.config
+D:\Korolko\ClassroomActivity\Logger\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache

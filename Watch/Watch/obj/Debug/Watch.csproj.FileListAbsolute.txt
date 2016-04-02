@@ -1,0 +1,3 @@
+D:\!Work\ИГОРЬ\EPAM_study\EPAM\C#\Учеба\Watch\Watch\bin\Debug\Watch.exe.config
+D:\!Work\ИГОРЬ\EPAM_study\EPAM\C#\Учеба\Watch\Watch\obj\Debug\Watch.csprojResolveAssemblyReference.cache
+d:\Epam\KursC#\ Home_Task\Watch\Watch\bin\Debug\Watch.exe.config
